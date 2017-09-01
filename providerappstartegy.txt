@@ -1,0 +1,23 @@
+session controller - for whole application
+service for calling restful api which in php slim framweork based approach
+       -- for authentication service
+       -- for product service
+       -- for order service 
+       -- for payment service
+Shareprefereces to store the login activity of user or merchant data
+filepreferences service to store the order history of merchant and paymeny history of merchant 
+Activity for controlling the app is as follows 
+   -- login activity
+   -- register activity 
+   -- main page havin fragmant -- product|order|payment for consumer
+                               -- product|addproduct|order for merchant
+   -- settings activity   .
+   -- product activity    . 
+   -- addProduct activity .-------for merchant and consumer
+   -- order activity      .
+   -- payment activity    .
+
+Log information regarding error and info
+
+
+
