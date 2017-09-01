@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\product_menu.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\product_menu.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\payment_menu.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\payment_menu.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\profile_menu.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\profile_menu.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\order_menu.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\order_menu.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\menu\\menu_login.xml"
+    }
+]

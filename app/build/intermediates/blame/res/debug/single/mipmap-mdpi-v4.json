@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_contact.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_contact.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_search.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_chat_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_call.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_call_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_call_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_contact_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_contact_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_close.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\search_cursor.xml",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\search_cursor.xml"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_chat.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat.png"
+    }
+]

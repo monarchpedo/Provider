@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_search.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_close.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_call_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_call_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_chat_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_contact_disable.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_contact_disable.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_contact.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_contact.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_chat.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android project\\Provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_call.png",
+        "source": "E:\\android project\\Provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_call.png"
+    }
+]

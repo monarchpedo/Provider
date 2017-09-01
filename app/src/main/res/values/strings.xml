@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">"Provider "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_mobile">mobile number</string>
+    <string name="tab1">Order</string>
+    <string name="tab2">Merchant</string>
+    <string name="tab3">Add Product</string>
+    <string name="tab4">Payment</string>
+    <string name="tab5">MerchantOrder</string>
+    <string name="tab6">Product</string>
+    <string name="action_history">History</string>
+    <string name="action_search">Search</string>
+</resources>
